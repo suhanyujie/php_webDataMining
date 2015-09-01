@@ -1,0 +1,17 @@
+# IDE配置文件
+*.iml
+.idea/
+
+# 项目依赖文件
+vendor/
+node_modules/
+bower_components/
+
+# 应用各自的缓存
+application/caoliu/cache/
+
+
+
+
+
+

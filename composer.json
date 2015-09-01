@@ -1,0 +1,23 @@
+{
+    "name": "lihuanpeng/php_web-data-mining",
+    "description": "php_webDataMining",
+    "type": "private",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lihuanpeng",
+            "email": "huanpenglee@gmail.com"
+        }
+    ],
+    "require": {
+        "electrolinux/phpquery": "^0.9.6",
+        "mgargano/simplehtmldom": "^1.5",
+        "hightman/xunsearch": "^1.4",
+        "scws/pscws4": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "webDataMining\\": "system/"
+        }
+    }
+}

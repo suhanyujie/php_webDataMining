@@ -1,0 +1,7 @@
+{
+  "name": "php_webDataMining",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "highcharts": "~4.1.8"
+  }
+}
